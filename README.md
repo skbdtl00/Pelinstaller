@@ -12,6 +12,21 @@ Learn more about [Pelican's Project](https://pelican.dev/) here. This script is 
 
 <br></td></tr></table>
 
+## 🆕 New: Reverz Bot Hosting Platform
+
+This repository now includes **Reverz Bot Hosting** - a modern, full-featured bot hosting platform built on top of Pelican Panel!
+
+🤖 **[View Reverz Bot Hosting Documentation](REVERZ_BOT_HOSTING.md)**
+
+**Features:**
+- Thai language dashboard
+- Multi-user support with role-based access
+- Plan management with flexible pricing
+- Server lifecycle management via Pelican API
+- Node.js & Python support (more runtimes configurable)
+
+Located in `/reverz-bot-hosting/` directory.
+
 ## Using the installation scripts
 
 To use the installation scripts, simply run this command as root. The script will ask you whether you would like to install just the panel, just Wings or both.
